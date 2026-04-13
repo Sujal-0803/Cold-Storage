@@ -1,52 +1,97 @@
-A web platform designed to help food businesses, farmers, and storage providers manage and locate cold storage facilities efficiently. This website offers real-time availability tracking, booking options, and educational content on food preservation and cold chain management.
+ 🧊 Cold Storage Web Application
 
-🌟 Features
-🏬 List of nearby cold storage facilities with capacity and location details
+📌 Project Overview
 
-📊 Real-time storage availability monitoring
+The **Cold Storage Web Application** is a multi-page website designed to showcase and manage fresh agricultural products like fruits and vegetables. It simulates an organic food platform where users can explore products and interact through a contact system.
 
-🗓️ Online booking and reservation system
 
-🔔 Notifications & alerts for temperature changes or maintenance
+🚀 Features
 
-❓ FAQs and informational articles on food preservation
+* 🛒 Product pages for fruits (banana, tomato, pineapple, cucumber, strawberry)
+* 📄 Multi-page website (Home, About, Products, Contact, Features, Testimonials)
+* 📬 Contact form with backend data handling (PHP + MySQL)
+* 🧾 Cart page UI for shopping experience
+* 🌐 Clean and user-friendly interface
 
-🔍 Search and filter cold storage by type, capacity, and location
 
-🌐 Responsive design for mobile and desktop users
+🛠️ Technologies Used
 
-🔐 Admin panel for managing cold storage data (optional)
+Frontend: HTML5, CSS3
+Backend: PHP
+Database: MySQL
+Version Control: Git & GitHub
 
-🔧 Tech Stack
-Frontend: HTML, CSS, JavaScript (or React/Angular if applicable)
 
-Backend: Java (Spring Boot) / Node.js / PHP / Python Flask (choose your tech stack)
+📂 Project Structure
 
-Database: MySQL / MongoDB
+Cold-Storage/
+│
+├── index.html
+├── about.html
+├── product.html
+├── cart.html
+├── contact.html
+├── feature.html
+├── testimonial.html
+├── visit.html
+│
+├── Fresh banana.html
+├── Fresh Tomato.html
+├── Fresh Pineapple.html
+├── Fresh cucumber.html
+├── Fresh strawberry.html
+│
+├── submit.php
+├── php/
+│
+├── contact.sql
+│
+├── README.md
+├── LICENSE.txt
+└── assets (images & template)
 
-APIs: Google Maps API for location services (optional)
 
-Hosting: GitHub Pages / Netlify / AWS / Heroku
+⚙️ How to Run the Project
 
-📁 Project Structure
-bash
-Copy
-Edit
-/cold-storage-website
- ├── index.html
- ├── /css
- ├── /js
- ├── /images
- ├── /backend (if applicable)
- ├── /api (optional)
- └── README.md
+1️⃣ Clone the Repository
 
-git clone: https://github.com/<Sujal-0803>/cold-storage-website.git
-cd cold-storage-website
-Run the project
-For static websites:
-Open index.html in your browser.
+git clone https://github.com/Sujal-0803/Cold-Storage.git
 
-📬 Contact
- Name: Sujal Maru
-📧 Email: sujalmaru2004@gmail.com
+2️⃣ Setup Local Server
+
+* Install XAMPP / WAMP
+* Move project folder to `htdocs`
+
+3️⃣ Setup Database
+
+* Open phpMyAdmin
+* Create a database
+* Import `contact.sql`
+
+4️⃣ Run the Project
+
+* Start Apache & MySQL
+* Open browser and go to:
+
+
+💡 Learning Outcomes
+
+* Built a complete multi-page website
+* Implemented backend form handling using PHP
+* Connected frontend with MySQL database
+* Understood real-world project structure
+
+
+🔮 Future Improvements
+
+* Add JavaScript for dynamic functionality
+* Implement login/signup system
+* Make fully responsive design
+* Add real cart functionality
+* Create admin dashboard
+
+
+👨‍💻 Author
+
+**Sujal Maru**
+GitHub: https://github.com/Sujal-0803
