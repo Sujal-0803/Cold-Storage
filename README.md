@@ -48,5 +48,5 @@ For static websites:
 Open index.html in your browser.
 
 📬 Contact
-    Name: Sujal Maru
+ Name: Sujal Maru
 📧 Email: sujalmaru2004@gmail.com
