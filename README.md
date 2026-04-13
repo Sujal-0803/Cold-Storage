@@ -55,7 +55,7 @@ Cold-Storage/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Sujal-0803/Cold-Storage.git
+git clone: https://github.com/Sujal-0803/Cold-Storage.git
 
 2️⃣ Setup Local Server
 
