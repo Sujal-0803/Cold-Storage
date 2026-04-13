@@ -93,5 +93,5 @@ git clone: https://github.com/Sujal-0803/Cold-Storage.git
 
 👨‍💻 Author
 
-**Sujal Maru**
+Sujal Maru
 GitHub: https://github.com/Sujal-0803
