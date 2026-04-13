@@ -40,30 +40,13 @@ Edit
  ├── /backend (if applicable)
  ├── /api (optional)
  └── README.md
-🚀 Getting Started
-Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/<your-username>/cold-storage-website.git
+
+git clone: https://github.com/<Sujal-0803>/cold-storage-website.git
 cd cold-storage-website
 Run the project
 For static websites:
 Open index.html in your browser.
 
-For backend-enabled apps:
-
-bash
-Copy
-Edit
-# Example for Node.js
-npm install
-npm start
-Then visit: http://localhost:3000/
-
-🤝 Contributions
-Contributions are welcome! Feel free to fork the repository, improve the code, and submit a pull request.
-
 📬 Contact
-Made with ❤️ by Sujal Maru
+    Name: Sujal Maru
 📧 Email: sujalmaru2004@gmail.com
