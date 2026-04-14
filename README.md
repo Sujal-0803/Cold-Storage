@@ -17,7 +17,7 @@ The **Cold Storage Web Application** is a multi-page website designed to showcas
 🛠️ Technologies Used
 
 Frontend: HTML5, CSS3
-Backend: PHP
+/n Backend: PHP
 Database: MySQL
 Version Control: Git & GitHub
 
