@@ -26,7 +26,8 @@ PHP (for form handling)
 Database:
 MySQL (via contact.sql)
 
-📂 Project Structure
+📂 Project Structure:
+
 Cold-Storage/
 │── index.html
 │── about.html
