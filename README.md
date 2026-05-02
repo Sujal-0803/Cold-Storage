@@ -17,8 +17,7 @@ This project demonstrates a basic full-stack structure using frontend technologi
 🛠️ Technologies Used
 
 Frontend:
-HTML5
-
+HTML5,
 CSS3
 
 Backend:
