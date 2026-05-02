@@ -7,23 +7,29 @@ Cold Storage is a web-based application designed to showcase and manage organic 
 This project demonstrates a basic full-stack structure using frontend technologies along with backend integration for handling user data.
 
 🚀 Features
-🛒 Product listing (fruits & vegetables)
-📄 Individual product pages (Banana, Tomato, Pineapple, etc.)
-🧾 Cart page UI
-📬 Contact form with database storage
-ℹ️ About, Features, Testimonials pages
-🌐 Simple and responsive design
+
+• 🛒 Product listing (fruits & vegetables)
+
+• 📄 Individual product pages (Banana, Tomato, Pineapple, etc.)
+
+• 🧾 Cart page UI
+
+• 📬 Contact form with database storage
+
+• ℹ️ About, Features, Testimonials pages
+
+• 🌐 Simple and responsive design
 
 🛠️ Technologies Used
 
-Frontend:
+• Frontend:
 HTML5,
 CSS3
 
-Backend:
+• Backend:
 PHP (for form handling)
 
-Database:
+• Database:
 MySQL (via contact.sql)
 
 📂 Project Structure:
@@ -58,6 +64,7 @@ git clone https://github.com/Sujal-0803/Cold-Storage.git
 Navigate into the project folder:
 
 cd Cold-Storage
+
 🔧 How to Run the Project
 Install a local server like XAMPP / WAMP
 
@@ -69,18 +76,24 @@ Import contact.sql into phpMyAdmin
 
 Open browser and run:
 http://localhost/Cold-Storage/
+
 🎯 Purpose
-To demonstrate a basic e-commerce style website
-To implement form handling using PHP & MySQL
-To showcase frontend + backend integration for beginners
 
-📈 Future Improvements
+• To demonstrate a basic e-commerce style website
 
-Add user authentication (Login/Register)
-Implement real cart functionality (not just UI)
-Add payment gateway integration
-Improve UI with JavaScript interactivity
-Make it fully responsive
+• To implement form handling using PHP & MySQL
+
+• To showcase frontend + backend integration for beginners
+
+📈 Future Improvements:
+
+• Add user authentication (Login/Register)
+
+• Implement real cart functionality (not just UI)
+
+• Add payment gateway integration
+
+• Improve UI with JavaScript interactivity
 
 👨‍💻 Author
 
