@@ -71,7 +71,9 @@ Install a local server like XAMPP / WAMP
 Place the project folder inside:
 
 htdocs (for XAMPP)
+
 Start Apache and MySQL
+
 Import contact.sql into phpMyAdmin
 
 Open browser and run:
